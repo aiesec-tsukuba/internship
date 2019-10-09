@@ -8,7 +8,7 @@ body {
 .banner-area{
   /*background-color: #037ef3; */
   /* 上のbackground-color: blue;をコメントアウトして、した以下で背景を設定しましょう。 */
-  background-image: url("/internship/img/examples.png");
+  background-image: url("/internship/img/a_tsukuba4.jpg");
 }
 
 .navbar{
